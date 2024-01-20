@@ -7,7 +7,10 @@ date: 2024-01-17
 published: true
 labels:
   - Computer Science
+  - Software Engineering
+  - WOD
 ---
+![software-engineering-featured](https://github.com/jingyuh1/jingyuh1.github.io/assets/156954674/17ea2039-8f91-4a55-9868-b542cab78f57)
 
 
 I've never learned with JavaScript before, but I'm not new to it. It's very similar to Java. JavaScript is a lightweight, interpreted or just-in-time compiled programming language with function precedence. Although it is famous as a scripting language for developing Web pages, it is also used in many non-browser environments. JavaScript is based on prototype programming, a multi-paradigm dynamic scripting language, and supports object-oriented, imperative, declarative, and functional programming paradigm.
