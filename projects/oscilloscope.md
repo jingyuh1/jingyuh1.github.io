@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/champions_logo.png
+image: img/osc_logo.png
 title: "Operation of an Oscilloscope"
 date: 2024-01-18
 published: true
