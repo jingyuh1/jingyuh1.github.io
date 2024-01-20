@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/algorithms_logo.png
-title: "average_completion_time.md"
+title: "average_completion_time"
 date: 2024-01-18
 published: true
 labels:
