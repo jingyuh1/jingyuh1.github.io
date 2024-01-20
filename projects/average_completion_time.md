@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/champions_logo.png
+image: img/algorithms_logo.png
 title: "average_completion_time.md"
 date: 2024-01-18
 published: true
@@ -11,7 +11,8 @@ labels:
   - Computer Science
 summary: "Scheduling to minimize average completion time."
 ---
-![worlds cup](https://github.com/jingyuh1/jingyuh1.github.io/assets/156954674/f2c4f235-d0bd-4649-b00e-ac02cf0af7f9)
+
+![cyb158](https://github.com/jingyuh1/jingyuh1.github.io/assets/156954674/997b41a8-7879-478d-9ac0-a99401bafbe1)
 
 Give an algorithm that schedules the tasks so as to minimize the average completion time. Each task must run nonpreemptively, that is, once task ai starts, it
 must run continuously for pi units of time until it is done.
