@@ -1,25 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jingyu Huang",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/jingyuh1.png",
+    "email": "jingyuh@hawaii.edu",
+    "phone": "725-266-2766",
+    "website": "https://jingyuh1.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jingyuh1", "url": "http://github.com/jingyuh1" },
+      { "network": "linkedin", "username": "jingyuh@hawaii.edu", "url": "http://linkedin.com/in/jingyuh" },
+      { "network": "twitter", "username": "jingyuh", "url": "http://twitter.com/jingyuh" },
+      { "network": "instagram", "username": "zengwugi", "url": "http://instagram.com/jingyuh" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Web Design" },
+    { "name": "Game Development" },
     { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "UFC fights" },
     { "name": "3D Graphics" }
   ],
   "skills": [
