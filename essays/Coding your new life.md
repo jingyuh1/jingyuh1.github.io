@@ -1,19 +1,23 @@
 ---
 layout: essay
 type: essay
-title: E10 New Beginning 
+title: Coding your new life 
 date: 2024-01-17
 # All dates must be YYYY-MM-DD format!
 published: true
 labels:
   - Computer Science
+  - Web Design
+  - Software ENgineering
 ---
+![how-to-become-software-engineer](https://github.com/jingyuh1/jingyuh1.github.io/assets/156954674/16ee2383-5a3e-48ba-8567-b3739c139f1c)
 
 
-I've never learned with JavaScript before, but I'm not new to it. It's very similar to Java. JavaScript is a lightweight, interpreted or just-in-time compiled programming language with function precedence. Although it is famous as a scripting language for developing Web pages, it is also used in many non-browser environments. JavaScript is based on prototype programming, a multi-paradigm dynamic scripting language, and supports object-oriented, imperative, declarative, and functional programming paradigm.
+Software engineering is a discipline that studies the use of engineering methods to build and maintain effective, practical and high-quality software. Whether software development is a science or an engineering project is a question that has been debated for a long time. In fact, software development has characteristics of both. But that doesn't mean they can be confused with each other. Many people think that software engineering is based on computer science and information science in the same way that engineering is based on physics and chemistry in the traditional sense. It involves programming languages, databases, and software development tools. From the perspective of software development, it is a set of development activities that use appropriate resources (including personnel, software and hardware resources, time, etc.) to develop software. At the end of the activity When input (that is, user needs) is transformed into output (software products that ultimately meet user needs). 
 
 
-JavaScript and Java are two different programming languages, and despite their similar names, their designs and uses are very different. Java is designed to provide a portable, safe, and efficient programming language. JavaScript is a scripting language originally designed to add interactivity to web pages. JavaScript was designed to provide a simple and easy-to-use programming language to make web pages more dynamic and interactive. The release of the ES6 standard has further enhanced JavaScript programming capabilities. The updated ECMAScript version adds many new features to JavaScript, making JavaScript more readable, maintainable and extensible. The core features of ES6 include arrow functions, template literals, destructuring, classes, modules, etc.
+In addition to studying common basic courses, this major will also systematically study courses such as discrete mathematics, data structure, algorithm analysis, object-oriented programming, modern operating systems, database principles and implementation technologies, compilation principles, software engineering, software project management, computer security, etc. . 
 
 
-I think the education model of WODS is very novel. You can write about the knowledge you have learned in a limited time. Tomorrow will be my first official WODS. I am a little nervous and a little excited because there will be WODS every week this semester. This is the fastest and most effective way to test your learning results.
+Web development includes two major job divisions: front-end development and back-end development. Front-end development mainly uses Html, CSS and JavaScript, while back-end development can use languages ​​such as Java, Python, PHP, and C#. I am also very interested in mobile terminal development. With the development of the mobile Internet, many graduates currently focus on the development of mobile apps, mainly including iOS terminal development and Android terminal development. With the implementation of 5G standards, the development scenarios of mobile terminals will be further expanded in the future, such as in-depth integration with the Internet of Things.
+
