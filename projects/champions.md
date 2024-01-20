@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/champions_logo.png
 title: "Champions"
 date: 2024-01-18
 published: true
