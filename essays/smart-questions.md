@@ -17,57 +17,33 @@ labels:
 
 Topics refer to disputes that cause dialogue or discussion, including descriptive topics and prescriptive topics. Developers ask detailed questions and think about why the answer is what it is.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
+In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get Why do certain random strings produce colors when entered as background colors in HTML.
 ```
-Q: python date of the previous month
+Q: Why do certain random strings produce colors when entered as background colors in HTML?
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+For example, bgcolor="chucknorris" produces a red background:
+<body bgcolor="chucknorris"> test </body>
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+Conversely, bgcolor="chucknorr" produces a yellow background:
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+This holds true across various browsers and platforms. What’s going on here?
 
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
 ```
 
 While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
 
 ```
-A: datetime and the datetime.timedelta classes are your friend.
+A: The reason is the browser can not understand it and try to somehow translate it to what it can understand and in this case into a hexadecimal value!...
+chucknorris starts with c which is recognised character in hexadecimal, also it's converting all unrecognised characters into 0!
+So chucknorris in hexadecimal format becomes: c00c00000000, all other characters become 0 and c remains where they are...
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+Now they get divided by 3 for RGB(red, green, blue)... R: c00c, G: 0000, B:0000...
 
-Like this:
+But we know valid hexadecimal for RGB is just 2 characters, means R: c0, G: 00, B:00
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+So the real result is:
+
+bgcolor="#c00000";
 
 ```
  
