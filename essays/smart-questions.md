@@ -30,8 +30,7 @@ This holds true across various browsers and platforms. What’s going on here?
 
 ```
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
+The title of this question is very concise and makes it clear to the respondent how the answer should be given. The question "Why do different words have different background colors" contains the questioner's confusion and the basic structure of HTML.
 ```
 A: The reason is the browser can not understand it and try to somehow translate it to what it can understand and in this case into a hexadecimal value!...
 chucknorris starts with c which is recognised character in hexadecimal, also it's converting all unrecognised characters into 0!
@@ -47,7 +46,7 @@ bgcolor="#c00000";
 
 ```
  
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+The respondent answered the question of the asker very clearly. He wrote some code that explained the logic of the background color., I can confidently say that it is a good question.
 
 ## The foolproof way to get ignored.
 
