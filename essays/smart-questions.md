@@ -15,7 +15,7 @@ labels:
 
 ## What’s a smart question?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Topics refer to disputes that cause dialogue or discussion, including descriptive topics and prescriptive topics. Developers ask detailed questions and think about why the answer is what it is.
 
 In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
 
