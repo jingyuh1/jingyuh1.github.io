@@ -15,7 +15,7 @@ labels:
 
 ## What’s a smart question?
 
-Topics refer to disputes that cause dialogue or discussion, including descriptive topics and prescriptive topics. Developers ask detailed questions and think about why the answer is what it is.
+Good questions can not only lead to constructive solutions, but also stimulate people's curiosity, creativity and motivation to learn. Official documentation is a must-read for developers during the learning process. Documentation often explains step-by-step procedures and frequently asked questions. For example, when you want to learn Git, the correct way is to first study the official documentation to understand the basic concepts, instead of going to the community or forum to ask "Why did I submit the code using git commit, but I can't be seen in the Git code repository?" Modifications?" Topics refer to disputes that cause dialogue or discussion, including descriptive topics and prescriptive topics. Developers ask detailed questions and think about why the answer is what it is.
 
 In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get Why do certain random strings produce colors when entered as background colors in HTML.
 ```
@@ -50,21 +50,18 @@ The respondent answered the question of the asker very clearly. He wrote some co
 
 ## The foolproof way to get ignored.
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, No clear questions raised
+.
 
 ```
-Q: Facebook Desktop Notifier
+Q: Date Object in react giving not a number
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+In react the date object gives me an error when i use it with local Storage, but without it it works fine. what I wan to know is. like for example when I get the date and convert it to a string, i get some invalid value error, which pretty much means that the date wasn't generated as a number. Why does this happen ?
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
+I tried to create a date object
 ```
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
+His questions are vague, and questions without data are often confusing. Some people were confused by the questions he asked, and they didn't know how to answer them accurately. He or she can ask more specific and detailed questions
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+A good question should describe the problem in detail, such as the development environment used, the error message generated during the running of the program (you can paste a screenshot), locate the location where you think the error may occur (paste the source code that generated the error), and put Write down your guesses and thought process. Endless questions are an almost endless black hole of time. The people most likely to give us useful answers are also usually the busiest people (busy because they do most of the work themselves). Such people are quite disgusted with the uncontrolled black hole of time, so they also tend to hate those rambling questions. We're most likely to get useful answers if we explicitly state what we need the responder to do (such as provide pointers, send a piece of code, check your patch, etc.). Because this will set an upper limit on time and energy so that the respondent can concentrate on helping us. It's great to do this.
