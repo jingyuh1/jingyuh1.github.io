@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: E10 New Beginning 
-date: 2024-01-17
+title: Why is UI
+date: 2024-02-22
 # All dates must be YYYY-MM-DD format!
 published: true
 labels:
@@ -10,13 +10,13 @@ labels:
   - Software Engineering
   - WOD
 ---
-![software-engineering-featured](https://github.com/jingyuh1/jingyuh1.github.io/assets/156954674/17ea2039-8f91-4a55-9868-b542cab78f57)
+
+![UI fram](https://github.com/jingyuh1/jingyuh1.github.io/assets/156954674/e90b5f5d-4800-45d4-8a29-e7117f751569)
 
 
-I've never learned with JavaScript before, but I'm not new to it. It's very similar to Java. JavaScript is a lightweight, interpreted or just-in-time compiled programming language with function precedence. Although it is famous as a scripting language for developing Web pages, it is also used in many non-browser environments. JavaScript is based on prototype programming, a multi-paradigm dynamic scripting language, and supports object-oriented, imperative, declarative, and functional programming paradigm.
+With the popularity of the Internet and mobile devices, user interface design has become increasingly important. A UI framework is a software framework for creating user interfaces. It provides developers with a set of tools and templates to make designing and developing user interfaces more efficient and beautiful. UI frameworks play an important role in modern software development. It can provide a set of standardized design elements to make it easier for developers to create user interfaces. In addition, the UI framework can also improve development efficiency and reduce development costs, while also improving user experience and product quality. Therefore, UI framework plays an irreplaceable role in software development.
 
 
-JavaScript and Java are two different programming languages, and despite their similar names, their designs and uses are very different. Java is designed to provide a portable, safe, and efficient programming language. JavaScript is a scripting language originally designed to add interactivity to web pages. JavaScript was designed to provide a simple and easy-to-use programming language to make web pages more dynamic and interactive. The release of the ES6 standard has further enhanced JavaScript programming capabilities. The updated ECMAScript version adds many new features to JavaScript, making JavaScript more readable, maintainable and extensible. The core features of ES6 include arrow functions, template literals, destructuring, classes, modules, etc.
+As a system of interactive visual components of computer software, a graphical user interface displays objects that convey information and represent user actions. These objects can dynamically change properties such as color, size, or visibility based on user interaction. Icons, cursors, buttons, and other graphical elements (often enhanced by visual effects such as sound or transparency) contribute to the overall graphical user interface. Because different media have different forms, affordances and system specifications are also very different. Every product in its ecosystem needs to abide by its basic rules in order to meet both the standards for listing on the platform and the users' expectations for using the products on the platform. This is why we spent so much time explaining the system specifications of iOS and Material design in the early stage, just to let everyone understand the basic interface elements and layout rules, and prepare the materials and secret recipes for product design. Regarding user needs, we can obtain them through user surveys, which are more subjective to users, and verify them with background data - user real behavior data to determine user needs.
 
-
-I think the education model of WODS is very novel. You can write about the knowledge you have learned in a limited time. Tomorrow will be my first official WODS. I am a little nervous and a little excited because there will be WODS every week this semester. This is the fastest and most effective way to test your learning results.
+UI framework plays an important role in web application development. For example, Bootstrap is a popular UI framework that provides a set of ready-made CSS and JavaScript components, making it easier for developers to create modern web applications. .UI framework can also be used for desktop application development. For example, Electron is a popular desktop application framework that uses web technologies to create desktop applications. Electron provides a set of ready-made components and APIs to make it easier for developers to create cross-platform desktop applications.
