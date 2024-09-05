@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Rules-rules
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-7
+date: 2024-09-3
 published: false
 labels:
   - Questions
