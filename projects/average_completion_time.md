@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/algorithms_logo.png
 title: "average_completion_time"
-date: 2024-01-18
+date: 2023-01-18
 published: true
 labels:
   - Algorithms
