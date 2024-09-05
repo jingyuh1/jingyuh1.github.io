@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Coding your new life 
-date: 2024-01-17
+date: 2024-09-03
 # All dates must be YYYY-MM-DD format!
 published: true
 labels:
