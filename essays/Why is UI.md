@@ -4,7 +4,7 @@ type: essay
 title: Why is UI
 date: 2024-02-22
 # All dates must be YYYY-MM-DD format!
-published: true
+published: false
 labels:
   - Computer Science
   - Software Engineering
