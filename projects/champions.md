@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/champions_logo.png
 title: "Champions"
-date: 2024-01-18
+date: 2022-09-18
 published: true
 labels:
   - League of Legends
