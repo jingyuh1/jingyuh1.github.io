@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: Rules-rules
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-3
-published: false
+date: 2024-09-25
+published: true
 labels:
   - Questions
   - Answers
