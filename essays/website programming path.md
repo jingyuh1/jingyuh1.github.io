@@ -11,7 +11,7 @@ labels:
   - Software ENgineering
 ---
 
-<img width="250px" 
+<img width="550px" 
      class="rounded float-start pe-4" 
      src="https://lh6.googleusercontent.com/nhaehNc_KduQ-uRp6kX7HhCqR0TN6QBzqydOfW7Wr7cbiFiUNeOVFuJEczu63fisuXqG7cPiSR5DGjZD8Vjz_6MP2A22UseX8Tcl-gS2lplP933hDjIOEK11wonwWH-5DbhsABebMespkEIIgtUK4FA" >
 
