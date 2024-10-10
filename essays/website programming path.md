@@ -25,6 +25,5 @@ With the popularity of mobile devices, responsive design has become crucial. Fra
 
 The picture below is the first website I made using Bootstrap 5, and I will always remember it.
 
-<img width="300px" 
-     class="rounded float-start pe-4" 
-     src="C:\Users\jingy\OneDrive\Pictures\islandsnow-bootstrap.png">
+<img width="1311" alt="islandsnow-bootstrap" src="https://github.com/user-attachments/assets/efbea6a8-1521-44e9-a660-33232362ed4a">
+
