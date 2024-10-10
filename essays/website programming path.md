@@ -11,7 +11,7 @@ labels:
   - Software ENgineering
 ---
 
-![Reasons and Benefits of Using UI Framework](https://github.com/user-attachments/assets/db3c8417-10e2-40d6-88ad-898f2c7c3a21)
+![Reasons and Benefits of Using UI Framework](https://github.com/user-attachments/assets/db3c8417-10e2-40d6-88ad-898f2c7c3a21 width="100px")
 
 
 Software engineering is a discipline that studies the use of engineering methods to build and maintain effective, practical and high-quality software. Whether software development is a science or an engineering project is a question that has been debated for a long time. In fact, software development has characteristics of both. But that doesn't mean they can be confused with each other. Many people think that software engineering is based on computer science and information science in the same way that engineering is based on physics and chemistry in the traditional sense. It involves programming languages, databases, and software development tools. From the perspective of software development, it is a set of development activities that use appropriate resources (including personnel, software and hardware resources, time, etc.) to develop software. At the end of the activity When input (that is, user needs) is transformed into output (software products that ultimately meet user needs). 
