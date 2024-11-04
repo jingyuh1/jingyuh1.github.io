@@ -9,9 +9,7 @@ labels:
   - Nextjs
   - Web Designing
 ---
-## Learning Outcomes
-
-The UI framework provides developers with an efficient and reusable code base that can accelerate the interface design and development process. While their learning curve can be as steep as learning a new programming language, their advantages and benefits are enough to justify the investment of time and effort. In the project "browser history" I learned how to use HTML and CSS to make a simple website. I think it is also important to learn these two programming languages, because learning these two languages ​​​​gave me a better foundation to learn and Using Bootstrap 5.
+## Overview
 
 The primary reason for using a UI framework is to greatly improve development efficiency. Frameworks such as Bootstrap 5 pre-define many commonly used styles and components, such as buttons, navigation bars, forms, etc. These components are optimized and debugged and can be used directly in projects, saving developers time from designing and coding from scratch. This means developers can build and ship products faster without having to waste time reinventing the wheel. Compared with using HTML and CSS directly, UI frameworks allow developers to avoid a lot of repetitive work. Take responsive design as an example. Manually writing responsive layouts requires developers to consider various screen sizes and device types. Frameworks such as Bootstrap have built-in responsive grid systems that can automatically adjust page layouts and reduce the complexity of manually writing media queries. I personally have this experience. Bootstrap 5 is much more efficient than HTML programming. If you want complete control over every detail of your page, or need to build a very customized web design, native HTML/CSS is the best choice. If you want to speed up the development process, especially quickly build responsive web pages, or develop standardized interfaces, then Bootstrap 5 will greatly help you improve efficiency. The combination of the two is also very common. Many developers will use Bootstrap as the basis, and then fine-tune it with custom CSS according to specific project needs. 
 
