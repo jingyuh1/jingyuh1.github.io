@@ -1,18 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "Store Bidding"
 date: 2024-11-04
-published: false
+published: true
 labels:
   - Software Engineering
   - Nextjs
   - Web Designing
 ---
-
-<img width="400px" 
-     class="rounded float-start pe-4" 
-     src="https://lh6.googleusercontent.com/nhaehNc_KduQ-uRp6kX7HhCqR0TN6QBzqydOfW7Wr7cbiFiUNeOVFuJEczu63fisuXqG7cPiSR5DGjZD8Vjz_6MP2A22UseX8Tcl-gS2lplP933hDjIOEK11wonwWH-5DbhsABebMespkEIIgtUK4FA" >
+## Learning Outcomes
 
 The UI framework provides developers with an efficient and reusable code base that can accelerate the interface design and development process. While their learning curve can be as steep as learning a new programming language, their advantages and benefits are enough to justify the investment of time and effort. In the project "browser history" I learned how to use HTML and CSS to make a simple website. I think it is also important to learn these two programming languages, because learning these two languages ​​​​gave me a better foundation to learn and Using Bootstrap 5.
 
