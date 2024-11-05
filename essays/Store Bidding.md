@@ -18,7 +18,10 @@ The solution:  The Store bidding is an application for Businessmen or schools ca
 The Store bidding is an application for Businessmen or schools can share information and appeals with each other.
 
 ## Approch
-
+* Buyers and sellers don't have to be UH students, faculty, or staff. 
+* There is no anonymity: buyers and sellers connect through their UH credentials.
+Transactions are expected to occur on-campus. If a seller wants to meet off-campus, that can be a red-flag.
+Because buyers and sellers are from UHM, the goods and services will be relevant to UH students.
 
 
 
