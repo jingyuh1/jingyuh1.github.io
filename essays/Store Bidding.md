@@ -15,6 +15,10 @@ The problem: In an era where schools must carefully manage limited resources, st
 The solution:  The Store bidding is an application for Businessmen or schools can share information and appeals with each other.
 
 ## Approch
+The Store bidding is an application for Businessmen or schools can share information and appeals with each other.
+
+## Approch
+
 
 
 
