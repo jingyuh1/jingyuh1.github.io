@@ -19,7 +19,7 @@ With the rapid development of science and technology, artificial intelligence (A
 
 ## In-class Practice and WODs In-class WODs
 
-I will occasionally use AI when writing WODs. When writing VS code, some errors will be prompted. Some VS code programs can be modified by oneself, and some errors can only be found and fixed by oneself. When I browse all the codes and don't find any obvious errors but still get prompts, I will ask my questions to AI to help me out.
+I will occasionally use AI when writing WODs. When writing VS code, some errors will be prompted. Some VS code programs can be modified by oneself, and some errors can only be found and fixed by oneself. When I browse all the codes and don't find any obvious errors but still get prompts, I will ask my questions to AI to help me.
 
 ## Essays
 
@@ -39,7 +39,7 @@ There are always many ways to complete programming code. For example, there are 
 
 ## Conclusion
 
-<img width="300px" 
+<img width="250px" 
      class="rounded float-start pe-4" 
      src="https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg" >
 
