@@ -7,8 +7,8 @@ date: 2024-12-08
 published: true
 labels:
   - Computer Science
-  - Web Design
-  - Software ENgineering
+  - AI
+  - Software Engineering
 ---
 
 <img width="300px" 
