@@ -11,6 +11,10 @@ labels:
   - Software Engineering
 ---
 
+<img width="300px" 
+  class="rounded float-start pe-4" 
+  src="https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/0726_humor_0.jpg?itok=J-5Y27nQ" >
+
 With the rapid development of science and technology, artificial intelligence (AI) has penetrated into every aspect of modern life. From daily entertainment, work to study, AI is changing the world in a way that cannot be ignored. Especially for students majoring in computer science, the popularization of AI not only provides convenience, but also brings huge learning and development opportunities. However, the impact of AI is not limited to technology and efficiency, it also changes the way people think. Taking education as an example, the application of AI technology provides new possibilities for learning. For example, intelligent learning platforms analyze students' learning habits and customize personalized learning plans for them. This method of teaching students in accordance with their aptitude allows students to learn knowledge more efficiently.
 
 ## In-class Practice and WODs In-class WODs
@@ -34,6 +38,8 @@ AI can design customized tutorials and projects to meet students' interests. For
 There are always many ways to complete programming code. For example, there are many ways to achieve the same goal when designing an HTML page. Some I learned from videos and some I saw on other websites. Some codes I don't understand at all why they are written this way. In situations like this I would ask the AI, what are the benefits and basic logic questions of the way other codes are programmed.
 
 ## Conclusion
+
+<img width="250px" class="rounded float-start pe-4" src="https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg" >
 
 AI is profoundly affecting modern life and bringing unprecedented opportunities to computer science students. By making good use of AI tools, students can improve learning efficiency, enhance practical abilities, and open up space for career development. However, while utilizing AI, students should also maintain independent thinking skills and pay attention to the ethical issues of technology. In the future, the development of AI will further promote the progress of human society, and computer science students, as important promoters of this change, should continue to explore in learning and practice, and actively participate in the innovation and application of AI.
 
