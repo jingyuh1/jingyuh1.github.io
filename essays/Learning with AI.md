@@ -11,7 +11,7 @@ labels:
   - Software ENgineering
 ---
 
-<img width="400px" 
+<img width="300px" 
      class="rounded float-start pe-4" 
      src="https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/0726_humor_0.jpg?itok=J-5Y27nQ" >
 
