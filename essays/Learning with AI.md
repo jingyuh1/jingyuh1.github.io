@@ -35,8 +35,13 @@ AI can design customized tutorials and projects to meet students' interests. For
 
 # Explaining code and Writing code
 
-There are always many ways to complete programming code. For example, there are many ways to achieve the same goal when designing an HTML page. Some I learned from videos and some I saw on other websites. Some codes I don't understand at all why they are written this way. In situations like this I would ask the AI, what are the benefits and basic logic questions of the way other codes are programmed
+There are always many ways to complete programming code. For example, there are many ways to achieve the same goal when designing an HTML page. Some I learned from videos and some I saw on other websites. Some codes I don't understand at all why they are written this way. In situations like this I would ask the AI, what are the benefits and basic logic questions of the way other codes are programmed.
 
 ## Conclusion
 
+<img width="300px" 
+     class="rounded float-start pe-4" 
+     src="https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg" >
+
 AI is profoundly affecting modern life and bringing unprecedented opportunities to computer science students. By making good use of AI tools, students can improve learning efficiency, enhance practical abilities, and open up space for career development. However, while utilizing AI, students should also maintain independent thinking skills and pay attention to the ethical issues of technology. In the future, the development of AI will further promote the progress of human society, and computer science students, as important promoters of this change, should continue to explore in learning and practice, and actively participate in the innovation and application of AI.
+
