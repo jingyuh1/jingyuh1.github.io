@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Store Bidding"
 date: 2024-11-04
-published: true
+published: false
 labels:
   - Software Engineering
   - Nextjs
