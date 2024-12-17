@@ -19,7 +19,7 @@ With the rapid development of science and technology, artificial intelligence (A
 
 ## In-class Practice and WODs In-class WODs
 
-I will occasionally use AI when writing WODs. When writing VS code, some errors will be prompted. Some VS code programs can be modified by oneself, and some errors can only be found and fixed by oneself. When I browse all the codes and don't find any obvious errors but still get prompts, I will ask my questions to AI to help me.
+I will occasionally use AI when writing WODs. When writing VS code, some errors will be prompted. Some VS code programs can be modified by oneself, and some errors can only be found and fixed by oneself. When I browse all the codes and don't find any obvious errors but still get prompts, I will ask my questions to AI to help me out.
 
 ## Essays
 
