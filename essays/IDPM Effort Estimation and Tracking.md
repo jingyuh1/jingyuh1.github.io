@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" 
   class="rounded float-start pe-4" 
-  src="[https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/0726_humor_0.jpg?itok=J-5Y27nQ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvR-BhnnTdC9Ipx0y8TuxJ_QyJeLJ6_FDnA&s)" >
+  src="https://media.licdn.com/dms/image/v2/C5112AQHzZsVhbswVPQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1565958472864?e=2147483647&v=beta&t=pXm8-6Zb91rlYCMoulJi7IozVqjSY3MjXK_feo8akqE" >
 
 With the rapid development of science and technology, artificial intelligence (AI) has penetrated into every aspect of modern life. From daily entertainment, work to study, AI is changing the world in a way that cannot be ignored. Especially for students majoring in computer science, the popularization of AI not only provides convenience, but also brings huge learning and development opportunities. However, the impact of AI is not limited to technology and efficiency, it also changes the way people think. Taking education as an example, the application of AI technology provides new possibilities for learning. For example, intelligent learning platforms analyze students' learning habits and customize personalized learning plans for them. This method of teaching students in accordance with their aptitude allows students to learn knowledge more efficiently.
 
