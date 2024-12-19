@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: https://manoa-bites.github.io/assets/FullLogo.png
-title: "average_completion_time"
+title: "Finding restaurant at UHM"
 date: 2024-12-18
 published: true
 labels:
   - software  engineering
   - Project
   - Computer Science
-summary: "Scheduling to minimize average completion time."
+summary: "Finding restaurant at UHM."
 ---
 
 <img width="300px" 
