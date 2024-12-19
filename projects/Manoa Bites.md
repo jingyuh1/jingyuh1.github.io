@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/![manoa-bites logo](https://github.com/user-attachments/assets/bfdcf158-9563-4d80-9dae-daf94700fb93)
+image: img/manoa-bites.logo.png
 title: "Manoa Bites"
 date: 2024-12-18
 published: true
