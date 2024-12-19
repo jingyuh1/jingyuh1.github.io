@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "HTML", "React", "Next.js", "Bootstrap"]
     },
     {
       "name": "Toolsets/OS",
@@ -45,10 +45,10 @@
   ],
   "work": [
     {
-      "company": "Uber Driver",
-      "position": "Driver",
-      "website": "",
-      "startDate": "2021-08-01",
+      "company": "Uber Driver","Auto Z HAWAII",
+      "position": "Driver", "Sales", "Web Deploy",
+      "website": "https://www.autozhawaii.com/",
+      "startDate": "2024-08-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -59,9 +59,6 @@
   ],
   "volunteer": [
    
-  ],
-  "awards": [
-    
   ],
   "references": [
     {
