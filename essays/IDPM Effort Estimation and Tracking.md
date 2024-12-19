@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: IDPM Effort Estimation and Tracking
-date: 2024-12-08
+date: 2024-12-15
 # All dates must be YYYY-MM-DD format!
 published: true
 labels:
