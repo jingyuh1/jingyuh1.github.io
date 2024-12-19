@@ -45,10 +45,19 @@
   ],
   "work": [
     {
-      "company": "Uber Driver","Auto Z HAWAII",
-      "position": "Driver", "Sales", "Web Deploy",
+      "company": "Auto Z HAWAII",
+      "position": "Sales, Web Deploy",
       "website": "https://www.autozhawaii.com/",
-      "startDate": "2024-08-01",
+      "startDate": "2024-8-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Uber Driver",
+      "position": "Driver", "Sales", "Web Deploy",
+      "website": "",
+      "startDate": "2022-08-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -56,9 +65,6 @@
       ]
     
     }
-  ],
-  "volunteer": [
-   
   ],
   "references": [
     {
